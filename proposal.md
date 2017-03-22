@@ -13,11 +13,14 @@
 
 ## Project Proposal
 **Overview**: I am applying to the project “Measuring the development of an open source contributor”. This project aims at developing a tool which will help in measuring both the impact of an individual in open source projects and also, how being involved in open source, impacts a contributors life. Goals of this project are:
-A user is visiting the tool/website where he/she is able to track activities (commits, pull requests, issues) between a set of users.
-The user can also track the repositories, these users have been contributing at over time. 
-The tool will have to fetch the user's' repositories on its own using the github APIs.
-The username will be the input to the tool and different visualizations related to the user will be the output.
-Flow Diagram: The flow diagram of how the tool will work is given below. 
+- A user is visiting the tool/website where he/she is able to track activities (commits, pull requests, issues) between a set of users.
+- The user can also track the repositories, these users have been contributing at over time. 
+- The tool will have to fetch the user's' repositories on its own using the github APIs.
+- The username will be the input to the tool and different visualizations related to the user will be the output.
+
+**Flow Diagram**: The flow diagram of how the tool will work is given below.
+
+
 Mock Ups: I have created some mock ups below for the tool.
 In the below mockup a user can search other users in the search sidebar (here we will use the github search API).
 After searching a user, we can analyse all his activities in the right window.
